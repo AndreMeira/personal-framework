@@ -1,0 +1,11 @@
+{
+  "name": "personal-framework",
+  "version": "1.0.0",
+  "description": "personal framework in plain js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "andre meira",
+  "license": "MIT"
+}
